@@ -226,8 +226,6 @@ class LiteYTEmbed extends HTMLElement {
     }
   }
 
-  AIzaSyCHKBnCCGq4jNPn3XOV7QUVYYKYAZsKl2U;
-
   initImagePlaceholder() {
     if (this.playlistId) {
       // insert your key in key instead of *!*
